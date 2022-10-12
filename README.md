@@ -3,9 +3,13 @@ Third Person Template with Full Body IK that moves away from the Camera, allowin
 
 For a first person shooter I use full-body IK on a third person body so it can't clip the camera. This is an example project built minimally on a third person template.
 
+## Expansion
 Not shown here, but I also tend to chop off the arms and add first person arms instead. The end result is first person with a third person body when you look down.
 
 Made in Unreal Engine 5.0.3.
+
+## Video
+https://youtu.be/X33VGyx-CPE
 
 ## Limitation
 
