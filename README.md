@@ -9,7 +9,7 @@ Not shown here, but I also tend to chop off the arms and add first person arms i
 Made in Unreal Engine 5.0.3.
 
 ## Video
-https://youtu.be/X33VGyx-CPE
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/X33VGyx-CPE/0.jpg)](https://www.youtube.com/watch?v=X33VGyx-CPE)
 
 ## Limitation
 
